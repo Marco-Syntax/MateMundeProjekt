@@ -100,6 +100,9 @@ struct DetailView: View {
                     }
                     .padding(.top, 10)
                 }
+                .onAppear{
+                    favoriteViewModel.loadFavoritesYerbas()
+                }
                 .padding(20)
                 .background(Color(.systemGray6))
                 .cornerRadius(20)
