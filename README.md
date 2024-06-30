@@ -18,7 +18,7 @@ MateMundo ist eine mobile App, die Enthusiasten von Yerba Mate eine einfache und
 
 ## Entwicklung & Teamarbeit
 
-Das **MateMundo**-Projekt wurde in einem agilen Team entwickelt. Unser Team bestand aus [Michel Lobbos](https://github.com/MichelLobbos-Syntax), [Marco Grimme](https://github.com/Marco-Syntax), [Pablo Cigoy](https://github.com/Pablo-Mdz). Wir nutzten die Vorteile von Git und Branches, um eine kollaborative und effiziente Entwicklungsumgebung zu gewährleisten. Durch die Nutzung von Feature-Branches und regelmäßigen Pull-Requests konnten wir die Entwicklung organisieren und die Qualität des Codes sichern.
+Das **MateMundo**-Projekt wurde in einem agilen Team entwickelt. Unser Team bestand aus [Michel Lobbos](https://github.com/MichelLobbos-Syntax), [Pablo Cigoy](https://github.com/Pablo-Mdz) und [mir](https://github.com/Marco-Syntax). Wir nutzten die Vorteile von Git und Branches, um eine kollaborative und effiziente Entwicklungsumgebung zu gewährleisten. Durch die Nutzung von Feature-Branches und regelmäßigen Pull-Requests konnten wir die Entwicklung organisieren und die Qualität des Codes sichern.
 
 ---
 
